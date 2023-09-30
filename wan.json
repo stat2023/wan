@@ -621,7 +621,7 @@
 {"key":"影巢","name":"😹网盘┃影巢","type":3,"api":"csp_Hdhive","searchable":1,"quickSearch":1,"filterable":1,"ext":"./txt/token.txt"},
 {"key":"Gitcafe","name":"😹阿里┃纸条搜","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"./txt/token.txt"},
 {"key":"小纸条_cli","name":"😹小纸条┃T4","type":4,"api":"http://home.jundie.top:9520/spider/cli_gitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"./txt/token.txt","timeout":30},
-{"key":"csp_CandyMuj_sstv","name":"💖速搜┃优质","type":3,"api":"csp_CandyMuj_sstv","searchable":0,"quickSearch":0,"filterable":1, "jar":"./jar/candymuj.jar;md5;b9e068a2a61fea9507a31ef4cbcd61b4"}
+{"key":"csp_CandyMuj_sstv","name":"💖速搜┃优质","type":3,"api":"csp_CandyMuj_sstv","searchable":0,"quickSearch":0,"filterable":1, "jar":"./jar/candymuj.jar;md5;b9e068a2a61fea9507a31ef4cbcd61b4"},
 {"key":"drpy_js_KKPANS","name":"😹夸克┃网盘","type":3,"style":{"type":"rect","ratio":1.597},"api":"./lib/drpy2.min.js","ext":"./js/kkpans.js","quickSearch":1,"changeable":1,"timeout":30000},
 {"key":"push_agent","name":"😹夸克┃推送token","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"changeable":0,"ext":"./json/open_token.json"}
 
