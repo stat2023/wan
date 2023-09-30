@@ -4,8 +4,8 @@
 "warningText":"所有广告均来源于网络，不可信，源失效换即可",
 "lives":[{"name":"live","type":0,"url":"./txt/live.txt","playerType":1,"ua":"okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
 "sites":[
-{"key":"在线豆瓣[JS]","name":"💢豆瓣┃主页┃9.30更新","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./js/豆瓣.js"},
-{"key":"T4荐片","name":"豆瓣T4┃备用","type":4,"api":"https://t4.secan.icu/vod?sites=all","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"在线豆瓣[JS]","name":"💯豆瓣┃主页┃9.30更新","type":3,"api":"./lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":1,"ext":"./js/豆瓣.js"},
+{"key":"T4荐片","name":"💯豆瓣T4┃备用","type":4,"api":"https://t4.secan.icu/vod?sites=all","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"YGP","name":"🚀荐影┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
 {"key":"直播转点播","name":"🐼电视┃直播","type":3,"api":"./lib/直播转分线点播2.js","ext":"./js/直播.js"},
